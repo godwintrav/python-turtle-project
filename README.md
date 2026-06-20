@@ -4,9 +4,7 @@ A classic *Frogger*-style arcade game built with Python's built-in `turtle` grap
 
 ## Demo
 
-https://github.com/user-attachments/assets/python-turtle-crossing.mp4
-
-> If the video above doesn't play inline, watch it here: [python-turtle-crossing.mp4](python-turtle-crossing.mp4)
+▶️ **[Watch the demo video](https://drive.google.com/file/d/1aSMK5cjDvLs057si_pKZjek1K6vxnxYy/view?usp=drive_link)**
 
 ## Gameplay
 
